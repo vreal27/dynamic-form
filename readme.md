@@ -9,11 +9,11 @@ Your job is to get a list of fields from a call to a json api and render those f
 
 ## Hard Mode
 Create a form that allows you to add a field to the database. It should have all the required pieces:
-    * type
-    * label
-    * id
-    * icon
-    * options
+* type
+* label
+* id
+* icon
+* options
 
 ## Resources
 [https://fontawesome.com](https://fontawesome.com)
